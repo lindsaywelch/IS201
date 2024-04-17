@@ -1,0 +1,39 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color:cornflowerblue
+}
+
+body{
+    background-color:aliceblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    Text-align:center;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+.myList{
+    text-align: center
+}
+
+.myListItems{
+    display: inline-block;
+    text-align: left;
+}

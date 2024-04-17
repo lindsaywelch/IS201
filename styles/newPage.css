@@ -1,0 +1,49 @@
+.header{
+    background-color: black; 
+    color: white;
+    height: 100px;
+    line-height: 100px;
+}
+.mainbody{
+    background-color:aliceblue;
+    color: black;
+
+}
+.footer{
+    background-color:rgb(218, 238, 255);
+    color: black;
+    height: 25px;
+    line-height: 25px;
+    bottom:0px;
+    position: fixed;
+    left: 5px;
+    right: 5px;
+}
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:40%;
+}
+.common{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+nav{
+    Background-color: rgb(208, 225, 239);
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a{
+    Float: left;
+    padding: 13px;
+    text-decoration: none;
+    color: #333;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+nav a:hover{
+    background-color: rgb(136, 177, 159);
+}
